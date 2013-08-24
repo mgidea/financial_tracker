@@ -1,86 +1,79 @@
-<!DOCTYPE html>
-<html>
-<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# githubog: http://ogp.me/ns/fb/githubog#">
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
-  <title>Gists</title>
-
-  <meta content="authenticity_token" name="csrf-param" />
-<meta content="Er0iKusbmM8/00+QU52LojD+eY2glWhOLlBx7oykDb4=" name="csrf-token" />
-  <meta name="viewport" content="width=960">
-
-
-  <link type="text/plain" rel="author" href="https://github.com/humans.txt" />
-  <meta content="gist" name="octolytics-app-id" /><meta content="collector.githubapp.com" name="octolytics-host" />
-
-  <link href="/assets/application-40431a953a4fe71f7abb47ce95f23da2.css" media="screen, print" rel="stylesheet" />
-  <script src="/assets/application-0e9cfa9048fd8b9e3fe4ad1de9ce0047.js"></script>
-
-  
-</head>
-
-<body class=" ">
-
-  <div id="wrapper">
-    
-
-    <div id="header" class="header header-logged-out">
-      <div class="container" class="clearfix">
-        <a class="header-logo-wordmark" href="https://gist.github.com/">
-          <span class="octicon octicon-logo-github"></span>
-          <span class="octicon-logo octicon-logo-gist"></span>
-        </a>
-
-        <div class="header-actions">
-          <a class="button primary" href="https://github.com/signup?return_to=gist">Sign up for a GitHub Account</a>
-          <a class="button" href="https://gist.github.com/login?return_to=/atsheehan/b5cfb1bdf0260baef227/raw/e9c481e9e639727607c72b01b" data-skip-pjax>Sign in</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="site-content" id="js-pjax-container" data-pjax-container>
-      <div class="vis-secret site-container js-site-container" data-url="/atsheehan/b5cfb1bdf0260baef227/raw/e9c481e9e639727607c72b01b">
-  
-  <div class="i-am-error container">
-  <h1>Whoops.</h1>
-  <p>We seem to have missed the <em>gist</em> of that <em>gist</em> you were looking for.</p>
-</div>
-
-  <div class="context-overlay"></div>
-</div>
-
-    </div>
-    <div class="slow-loading-overlay"></div>
-  </div>
-
-  <div id="ajax-error-message" class="flash flash-error">
-    <div class="container">
-      <span class="octicon octicon-alert"></span>
-      Something went wrong with that request. Please try again.
-      <a href="#" class="octicon octicon-remove-close ajax-error-dismiss"></a>
-    </div>
-  </div>
-
-  <footer>
-    <div id="footer">
-  <div class="container clearfix">
-
-    <!-- Served fresh by github-fe102-cp1-prd.iad.github.net -->
-    <p class="right">&copy; 2013 GitHub Inc. All rights reserved.</p>
-    <a class="left" href="/">
-      <span class="mega-octicon octicon-mark-github"></span>
-    </a>
-    <ul id="legal">
-      <li><a href="https://github.com/blog">The GitHub Blog</a></li>
-      <li><a href="mailto:support@github.com">Support</a></li>
-      <li><a href="https://github.com/contact">Contact</a></li>
-    </ul>
-
-  </div><!-- /.container -->
-</div><!-- /.#footer -->
-
-  </footer>
-
-</body>
-</html>
+date,amount,description
+2012-01-01,1500.0,payday
+2012-01-03,-99.18,groceries
+2012-01-06,-96.95,electric bill
+2012-01-11,-2123.21,mortgage
+2012-01-15,1500.0,payday
+2012-01-15,-50.18,gas bill
+2012-01-15,-48.6,gas
+2012-01-16,-44.76,groceries
+2012-01-22,-200.0,student loan
+2012-01-29,-50.96,groceries
+2012-01-29,1500.0,payday
+2012-01-29,-40.85,gas
+2012-01-29,-150.0,car payment
+2012-02-05,-70.24,electric bill
+2012-02-08,16.98,gambling
+2012-02-10,-2123.21,mortgage
+2012-02-11,-48.52,groceries
+2012-02-12,-42.68,gas
+2012-02-12,1500.0,payday
+2012-02-14,-51.88,gas bill
+2012-02-21,-200.0,student loan
+2012-02-24,-81.42,groceries
+2012-02-26,-48.08,gas
+2012-02-26,1500.0,payday
+2012-02-28,-150.0,car payment
+2012-03-06,-66.25,electric bill
+2012-03-08,-52.71,groceries
+2012-03-11,-48.92,gas
+2012-03-11,1500.0,payday
+2012-03-11,-2123.21,mortgage
+2012-03-15,-47.61,gas bill
+2012-03-21,-47.26,groceries
+2012-03-22,-200.0,student loan
+2012-03-25,-41.7,gas
+2012-03-25,1500.0,payday
+2012-03-29,-150.0,car payment
+2012-04-03,-42.59,groceries
+2012-04-05,-68.41,electric bill
+2012-04-08,-46.37,gas
+2012-04-08,1500.0,payday
+2012-04-08,87.76,gambling
+2012-04-10,-2123.21,mortgage
+2012-04-14,-31.12,gas bill
+2012-04-16,-57.33,groceries
+2012-04-21,-200.0,student loan
+2012-04-22,1500.0,payday
+2012-04-22,-48.85,gas
+2012-04-28,-150.0,car payment
+2012-04-29,-46.62,groceries
+2012-05-05,-62.96,electric bill
+2012-05-06,-48.44,gas
+2012-05-06,1500.0,payday
+2012-05-10,-2123.21,mortgage
+2012-05-12,-51.24,groceries
+2012-05-14,-58.15,gas bill
+2012-05-20,-46.11,gas
+2012-05-20,1500.0,payday
+2012-05-21,-200.0,student loan
+2012-05-25,-45.48,groceries
+2012-05-28,-150.0,car payment
+2012-06-03,1500.0,payday
+2012-06-03,-40.92,gas
+2012-06-04,-99.62,electric bill
+2012-06-07,-90.66,groceries
+2012-06-07,-166.28,gambling
+2012-06-09,-2123.21,mortgage
+2012-06-13,-73.27,gas bill
+2012-06-17,1500.0,payday
+2012-06-17,-41.69,gas
+2012-06-20,-84.4,groceries
+2012-06-20,-200.0,student loan
+2012-06-27,-150.0,car payment
+2012-07-01,-41.97,gas
+2012-07-01,1500.0,payday
+2012-07-03,-37.9,groceries
+2012-07-04,-92.89,electric bill
+2012-07-09,-2123.21,mortgage
+2012-07-13,-68.94,gas bill
